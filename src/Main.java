@@ -21,7 +21,7 @@ public class Main {
 
 	private static Instrukcia[] instrukcie = new Instrukcia[200];
 
-	private static int pocetStavov = 77;
+	private static int pocetStavov = 50;
 
 	public static void main(String[] args) {
 		// pridame instrukcie do zoznamu instrukcii

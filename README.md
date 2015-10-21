@@ -1,0 +1,3 @@
+# Turing JAVA
+
+Iba začaté na rýchlo spravené vykonávanie turingovho stroja, stále je čo zdokonaľovať...
